@@ -3,4 +3,12 @@
     <string name="local_source_xml">cars_tesla</string>
     <string name="label_vehicle_selected">Introduce un ID de vehículo:</string>
     <string name="buscar_veh_culo">Buscar Vehículo</string>
+    <string name="label_brand">Marca</string>
+    <string name="content_brand">Mercedes-AMG</string>
+    <string name="label_model">Modelo</string>
+    <string name="label_engine">Motor</string>
+    <string name="content_engine">4.0L V8 Biturbo</string>
+    <string name="label_price">PRECIO SUGERIDO</string>
+    <string name="content_price">198.500</string>
+    <string name="no_car">El vehículo con ese ID no existe</string>
 </resources>

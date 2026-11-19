@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="spacing">16dp</dimen>
+    <dimen name="img_car_size">220dp</dimen>
+    <dimen name="label_size">10sp</dimen>
 </resources>
